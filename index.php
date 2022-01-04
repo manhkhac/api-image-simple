@@ -144,7 +144,7 @@ a:hover{cursor:url("https://i.imgur.com/IXULuQ1.png"), auto;}
 <center><img id='avatar' src='https://imgur.com/Gxj2F4C.jpg'/></center>
 <center><span id='name'>Nguyễn Quốc Vinh</span></center>
 <center><span id='nickname'>@Crew</span></center>
-<center><p>我要等到你爱上我的那一天&#12290;</p></center>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://www.facebook.com/congquyen30062007'></a></div>
 </div>
 </div>
 <div>
